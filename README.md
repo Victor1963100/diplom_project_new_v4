@@ -35,4 +35,4 @@
 - [План по ручному и автоматизированному тестированию](https://github.com/Victor1963100/diplom_project_new_v4/blob/main/Plan.md)
 - [Чек-лист](https://github.com/Victor1963100/diplom_project_v4)
 - [Тест-кейсы](https://github.com/Victor1963100/diplom_project_v4)
-- [Отчет по итогам тестирования](https://github.com/Victor1963100/diplom_project_v4/blob/main/Result.md)
+- [Отчет по итогам тестирования](https://github.com/Victor1963100/diplom_project_new_v4/blob/main/Result.md)
