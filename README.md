@@ -34,5 +34,5 @@
 ## Отчетная документация
 - [План по ручному и автоматизированному тестированию](https://github.com/Victor1963100/diplom_project_new_v4/blob/main/Plan.md)
 - [Чек-лист](https://github.com/Victor1963100/diplom_project_new_v4/blob/main/Check.xlsx)
-- [Тест-кейсы](https://github.com/Victor1963100/diplom_project_v4)
+- [Тест-кейсы](https://github.com/Victor1963100/diplom_project_new_v4/blob/main/Cases.xlsx)
 - [Отчет по итогам тестирования](https://github.com/Victor1963100/diplom_project_new_v4/blob/main/Result.md)
